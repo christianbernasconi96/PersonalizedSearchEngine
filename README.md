@@ -3,6 +3,8 @@ Implementation of a personalized search engine using Elastic Search on tweets.
 
 A demo using Angular has also been built.
 
+To learn more about the project see the [presentation](Presentation.pdf) and the [report](Report.pdf).
+
 # Group
 
 - Christian Bernasconi 816423
